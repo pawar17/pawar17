@@ -83,9 +83,7 @@ FYI - I just started pushing my big projects to GitHub.
 ---
 
 ## 🌍 Let’s connect & collaborate!
-
-- 🐦 [Twitter](https://twitter.com)
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aadyapawar/)
 - 📫 Email: pawar17@purdue.edu
 ---
 #### 🧠 Strengths: Belief • Restorative • Ideation • Strategic • Responsibility
