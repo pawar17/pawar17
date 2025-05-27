@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Simpsons Gif](pawar17/assets/Simpsons.gif)
+![Simpsons Gif](assets/Simpsons.gif)
 - 🔭 I’m currently working on an ML prediction model for cricket 
 - 🌱 I’m currently learning SQL
 - 🤔 I’m looking for help with internships and job search
