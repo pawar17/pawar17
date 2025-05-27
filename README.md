@@ -1,82 +1,82 @@
-## 👋 Hey there, I’m Aadya!
-![Simpsons Gif](assets/Simpsons.gif)
+<p align="center">
+  <img src="./assets/Simpsons.gif"  width="100%"/>
+</p>
 
-🎓 **Senior @ Purdue University**  
-Double majoring in **Computer Science** 🖥️ and **Artificial Intelligence** 🤖  
-Minors in **Psychology** 🧠 & **Critical Disability Studies** ♿  
-Certificates in **Entrepreneurship & Innovation** 💡 and **Data Science** 📊  
+## 👋 Hi there, I'm Aadya!
 
----
+> 🚀 Fueled by coffee, curiosity, and a *tiny bit of chaos* (aka hackathons and deadlines 😅)
 
-### 🚀 About Me
+🎓 I'm a **senior at Purdue University** double majoring in **Computer Science** and **Artificial Intelligence**, with minors in **Psychology** & **Critical Disability Studies**, and certifications in **Data Science** and **Entrepreneurship & Innovation**. Boiler Up! 🖤💛
 
-- 👩‍💻 Passionate about **tech for social good**, accessibility, and inclusive design
-- 🧠 Strong advocate for disability visibility through my nonprofit [Disability Visibility India](https://www.instagram.com/disabilityvisibilityindia/)
-- 🔬 Current research includes **Generative AI**, **cricket ML prediction**, and **child speech recognition**
-- 💼 Actively exploring roles in **SWE**, **TPM**, **PM**, and **Technical Consulting**
-- 📚 Always learning — currently brushing up on **SQL** and exploring **cloud architectures**
-- 👯 I run not one but **two GitHub accounts** (perks of GitHub Education 😎):  
-  - This one 👉 [@pawar17](https://github.com/pawar17)  
-  - And my main workhorse 👉 [@aadya7104](https://github.com/aadya7104)
+- 💼 Interested in the worlds of **Software Engineering**, **Product Management**, **TPM**, and **Tech Consulting** [PLZ HIRE ME :(((]
+- 📊 Currently building a **Cricket ML Prediction Model** 🏏
+- 💬 Learning more about **SQL**, **Azure**, and **cloud infra**
+- 📬 Reach me at: pawar17@purdue.edu
+- 🔄 You’ll also find me on [@aadya7104](https://github.com/aadya7104) (@pawar17 is my GitHub Education account!)
+- 💁 Pronouns: she/her
 
 ---
 
-### 📄 [Check out my resume here!](https://docs.google.com/document/d/1Ju6e-mVTXWJqo8gsHTJC2ZR7HgV0ixd_/edit?usp=sharing)
+### 🧠 A Bit More About Me:
+
+I'm passionate about **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story. 💙
 
 ---
 
-### 🛠️ Skills Snapshot
+## 🔍 Résumé Highlights
 
-**Languages & Frameworks**  
-Python • Java • JavaScript • TypeScript • C++ • C# • SQL • HTML/CSS • Blazor • PHP • Arduino
+### 💡 Work & Research
+- **FANUC** — Built a CV-based defect detection system for industrial robotics (Python + OpenCV)
+- **Purdue OUR** — Designed sentiment models and Tableau dashboards for research impact tracking
+- **C-Lab** — Trained diffusion models for CAD-integrated AI tools in part mobility
+- **Disability Visibility India** — Founder & CEO, launched nonprofit resource platform and advocacy hub
 
-**Tools & Technologies**  
-React • PyTorch • TensorFlow • REST APIs • Docker • AWS • Azure • GCP • Power BI • Tableau • MATLAB • Git • Figma • Unity • RoboGuide
+### 🛠️ Projects
+- 🎶 *Spotify Recommender*: RNN + LSTM on Million Playlist Dataset
+- 📈 *S&P 500 Forecaster*: LSTM for time series prediction
+- 🧠 *TreeHacks*: Built a secure fintech transaction platform – won Best API use (2nd place)
+- 🦻 *Child Speech-to-Text*: Boosted phoneme accuracy using deep learning (PyTorch)
 
-**Other Fun Tech**  
-Jupyter • Illustrator • Trello • JIRA • Agile/Scrum • Imaging Sensor Tech • Accessibility Tooling
+### 👩🏽‍💻 Leadership & Impact
+- **InnovateHer Hackathon** — Founder/President: 300+ participants, $40k+ raised, 71+ tech projects built  
+- **PurdueThink Consulting** — PM on multiple strategic engagements incl. BoilerExams and Purdue Pilots  
+- **WISP & LaunchPad** — Mentoring underrepresented students in STEM and building health tech prototypes  
 
----
-
-### 💡 Fun Projects
-
-🧠 **Cricket ML Model** – Predicting player performance using ML + real-world stats  
-🎶 **Spotify Recommender** – Collaborative filtering + RNNs = smarter music picks  
-📈 **S&P 500 Forecasting** – LSTM-powered stock trend analyzer  
-🎨 **Arduino Music Box** – Interactive musical toy with sensors and display  
-🌐 **Disability Visibility India Website** – From Figma to functioning accessibility-first site
-
----
-
-### 🌟 Recent Highlights
-
-- 🥈 **2nd Place** @ Treehacks for “Best Use of API” (Stanford University)
-- 🤝 **$80K+ raised** for my women-in-STEM hackathon: [InnovateHer](https://www.purdueexponent.org/campus/article_3b9fd7cc-b8f3-11ee-a0c6-b7f53b7ac7e4.html)
-- 📊 Built Tableau dashboards for Purdue-wide research conferences
-- 🧪 Built CV + sensor-based defect detection system @ FANUC (Summer '24 Intern)
-- ✨ Featured in Purdue Exponent for community impact
+📎 [View My Full Résumé - 3 page CV](https://docs.google.com/document/d/1Ju6e-mVTXWJqo8gsHTJC2ZR7HgV0ixd_/edit?usp=sharing)
 
 ---
 
-### 🌈 A Little More About Me
+## 💻 Tech Stack & Tools
 
-I’m someone who thrives at the intersection of tech and impact. Whether it’s leading nonprofit initiatives, launching full-stack projects, or mentoring future engineers, I love creating things that matter. I believe in **designing for empathy** and building with purpose.
-
-> “Tech should serve people — not the other way around.”
-
----
-
-### 📫 Let’s Connect!
-
-- 💌 **Email**: [pawar17@purdue.edu](mailto:pawar17@purdue.edu)
-- 💼 **LinkedIn**: [linkedin.com/in/aadyapawar](https://linkedin.com/in/aadyapawar)
-- 💻 **Portfolio + Projects**: [@aadya7104 GitHub](https://github.com/aadya7104)
-
----
-
-#### 💬 Pronouns: she/her  
-#### 🧠 Strengths: Belief • Restorative • Ideation • Strategic • Responsibility
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)
 
 ---
 
-🧁 Thanks for stopping by! Grab a cupcake on your way out 🧁  
+## 📊 GitHub Stats
+
+![Aadya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawar17&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar17&layout=compact&theme=react)
+
+---
+
+## 🌍 Let’s connect & collaborate!
+
+- 🐦 [Twitter](https://twitter.com)
+- 💼 [LinkedIn](https://linkedin.com)
+- 📫 Email: pawar17@purdue.edu
+
+> “Technology, when wielded with empathy, becomes a revolution.” – probably me after 2 AM debugging 😅
+
+---
+
+> 🔁 _Also see:_ [@aadya7104](https://github.com/aadya7104) — my other account!
