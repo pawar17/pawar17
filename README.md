@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with internships and job search
 - 📫 How to reach me: pawar17@purdue.edu
 - 😄 Pronouns: she/her
-- 🤖 I have two GitHub accounts, this one and @pawar17. I work mainly on the other account since I have access to GitHub Education perks through my school on it.
+- 🤖 I have two GitHub accounts, this one and [@Aadya7104](https://github.com/aadya7104). I work mainly on the other account since I have access to GitHub Education perks through my school on it.
 
 <!--
 **pawar17/pawar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
