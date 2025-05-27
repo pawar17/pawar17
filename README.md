@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Simpsons.gif"  width="100%"/>
+  <img src="./assets/Simpsons.gif"  width="50%"/>
 </p>
 
 ## 👋 Hi there, I'm Aadya!
