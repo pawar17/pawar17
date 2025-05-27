@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Simpsons.gif"  width="30%"/>
+  <img src="./assets/Simpsons.gif"  width="45%"/>
 </p>
 
 ## 👋 Hi there, I'm Aadya!
@@ -20,10 +20,11 @@
 
 ### 🧠 A Bit More About Me:
 
-I'm passionate about **tech for social good**, **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story.
+I'm passionate about **tech for social good**, **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story. I believe in **designing for empathy** and building with purpose.
 
 📢 Strong advocate for disability visibility through my nonprofit [Disability Visibility India](https://www.instagram.com/disabilityvisibilityindia/)
 
+> “Tech should serve people — not the other way around.”
 ---
 
 ## 🔍 Résumé Highlights
@@ -76,19 +77,11 @@ FYI - I just started pushing my big projects to GitHub.
 
 ---
 ### 🌟 Recent Highlights
-- ✨ **$80K+ raised** for my women-in-STEM hackathon & featured in Purdue Exponent for community impact
+- ✨ Featured in Purdue Exponent for community impact:
 : [InnovateHer](https://www.purdueexponent.org/campus/article_3b9fd7cc-b8f3-11ee-a0c6-b7f53b7ac7e4.html)
-- 📊 Built Tableau dashboards for Purdue-wide research conferences
-- 🧪 Built CV + sensor-based defect detection system @ FANUC (Summer '24 Intern)
----
-
-### 🌈 A Little More About Me
-
-I’m someone who thrives at the intersection of tech and impact. Whether it’s leading nonprofit initiatives, launching full-stack projects, or mentoring future engineers, I love creating things that matter. I believe in **designing for empathy** and building with purpose.
-
-> “Tech should serve people — not the other way around.”
 
 ---
+
 ## 🌍 Let’s connect & collaborate!
 
 - 🐦 [Twitter](https://twitter.com)
