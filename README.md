@@ -19,16 +19,15 @@
 
 ### 🧠 A Bit More About Me:
 
-I'm passionate about **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story. 💙
+I'm passionate about **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story.
 
 ---
 
 ## 🔍 Résumé Highlights
 
 ### 💡 Work & Research
-- **FANUC** — Built a CV-based defect detection system for industrial robotics (Python + OpenCV)
+- **FANUC** — Built a CV-based defect detection system for industrial robotics (Python + KAREL + Blazor + C#)
 - **Purdue OUR** — Designed sentiment models and Tableau dashboards for research impact tracking
-- **C-Lab** — Trained diffusion models for CAD-integrated AI tools in part mobility
 - **Disability Visibility India** — Founder & CEO, launched nonprofit resource platform and advocacy hub
 
 ### 🛠️ Projects
