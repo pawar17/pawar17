@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Aadya
-<p align="center">
-![Simpsons Gif](assets/Simpsons.gif)
- </p>
+        <div style="text-align: center;">
+          ![Simpsons Gif](assets/Simpsons.gif)
+        </div>
 -🌱 I’m currently a senior at Purdue University double majoring in Computer Science and AI with a minor in Psychology & Critical Disability Studies alongside certifications in Data Science and Entrepreneurship
 - 👀 I’m interested in SWE, TPM, PM & Technical consulting roles
 - 🔭 I’m currently working on an ML prediction model for cricket player performance
