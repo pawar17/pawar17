@@ -8,8 +8,9 @@
 
 🎓 I'm a **senior at Purdue University** double majoring in **Computer Science** and **Artificial Intelligence**, with minors in **Psychology** & **Critical Disability Studies**, and certifications in **Data Science** and **Entrepreneurship & Innovation**. Boiler Up! 🖤💛
 
-- 💼 Interested in the worlds of **Software Engineering**, **Product Management**, **TPM**, and **Tech Consulting** [PLZ HIRE ME :(((]
+- 💼 Interested in **Software Engineering**, **Product Management**, **TPM**, and **Tech Consulting** [PLZ HIRE ME :(((]
 - 📊 Currently building a **Cricket ML Prediction Model** 🏏
+- 🔬 Current research includes **Generative AI** and **child speech recognition**
 - 💬 Learning more about **SQL**, **Azure**, and **cloud infra**
 - 📬 Reach me at: pawar17@purdue.edu
 - 🔄 You’ll also find me on [@aadya7104](https://github.com/aadya7104) (@pawar17 is my GitHub Education account!)
@@ -19,7 +20,9 @@
 
 ### 🧠 A Bit More About Me:
 
-I'm passionate about **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story.
+I'm passionate about **tech for social good**, **accessible tech**, **disability inclusion**, and how we can use **AI ethically** to empower communities. Whether it’s building a nonprofit, diving into HCI research, or mentoring women in STEM — I believe tech should *always* include a human story.
+
+📢 Strong advocate for disability visibility through my nonprofit [Disability Visibility India](https://www.instagram.com/disabilityvisibilityindia/)
 
 ---
 
@@ -31,10 +34,13 @@ I'm passionate about **accessible tech**, **disability inclusion**, and how we c
 - **Disability Visibility India** — Founder & CEO, launched nonprofit resource platform and advocacy hub
 
 ### 🛠️ Projects
-- 🎶 *Spotify Recommender*: RNN + LSTM on Million Playlist Dataset
-- 📈 *S&P 500 Forecaster*: LSTM for time series prediction
 - 🧠 *TreeHacks*: Built a secure fintech transaction platform – won Best API use (2nd place)
 - 🦻 *Child Speech-to-Text*: Boosted phoneme accuracy using deep learning (PyTorch)
+- 👩‍💻 *Cricket ML Model* – Predicting player performance using ML + real-world stats  
+🎶 *Spotify Recommender* – Collaborative filtering + RNNs = smarter music picks  
+📈 *S&P 500 Forecasting* – LSTM-powered stock trend analyzer  
+🎨 *Arduino Music Box* – Interactive musical toy with sensors and display  
+🌐 *Disability Visibility India Website* – From Figma to functioning accessibility-first site
 
 ### 👩🏽‍💻 Leadership & Impact
 - **InnovateHer Hackathon** — Founder/President: 300+ participants, $40k+ raised, 71+ tech projects built  
@@ -63,19 +69,33 @@ I'm passionate about **accessible tech**, **disability inclusion**, and how we c
 
 ## 📊 GitHub Stats
 
+FYI - I just started pushing my big projects to GitHub. 
+
 ![Aadya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawar17&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar17&layout=compact&theme=react)
 
 ---
+### 🌟 Recent Highlights
+- ✨ **$80K+ raised** for my women-in-STEM hackathon & featured in Purdue Exponent for community impact
+: [InnovateHer](https://www.purdueexponent.org/campus/article_3b9fd7cc-b8f3-11ee-a0c6-b7f53b7ac7e4.html)
+- 📊 Built Tableau dashboards for Purdue-wide research conferences
+- 🧪 Built CV + sensor-based defect detection system @ FANUC (Summer '24 Intern)
+---
 
+### 🌈 A Little More About Me
+
+I’m someone who thrives at the intersection of tech and impact. Whether it’s leading nonprofit initiatives, launching full-stack projects, or mentoring future engineers, I love creating things that matter. I believe in **designing for empathy** and building with purpose.
+
+> “Tech should serve people — not the other way around.”
+
+---
 ## 🌍 Let’s connect & collaborate!
 
 - 🐦 [Twitter](https://twitter.com)
 - 💼 [LinkedIn](https://linkedin.com)
 - 📫 Email: pawar17@purdue.edu
-
-> “Technology, when wielded with empathy, becomes a revolution.” – probably me after 2 AM debugging 😅
-
+---
+#### 🧠 Strengths: Belief • Restorative • Ideation • Strategic • Responsibility
 ---
 
 > 🔁 _Also see:_ [@aadya7104](https://github.com/aadya7104) — my other account!
